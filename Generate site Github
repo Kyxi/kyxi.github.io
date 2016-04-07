@@ -6,7 +6,7 @@ Generate a site: pages.github.com
 
 -Lista los directorios para verificar que hayas generado el mismo(ls), ingresa al repositorio(cd).
 
--Crea un file de tu interes que contenga el sitio(echo "filename" > index.html".
+-Crea un file de tu interes que contenga el sitio(echo "filename" > index.html").
 
 -Agrega, comenta y empuja la info: git add --all
 
