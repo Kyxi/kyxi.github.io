@@ -1,0 +1,19 @@
+Generate a site: pages.github.com
+
+-Crea un repositorio, sera como tal la reserva de información en la página a crear.
+
+-Clona el repositorio con el comando git clone https://dirección del repositorio.
+
+-Lista los directorios para verificar que hayas generado el mismo(ls), ingresa al repositorio(cd).
+
+-Crea un file de tu interes que contenga el sitio(echo "filename" > index.html".
+
+-Agrega, comenta y empuja la info: git add --all
+
+git commit -m "Initial commit"
+
+git push -u origin master
+
+*Login (user.name-password)
+
+-Listo! Ingresa a tu navegador y accede a la dirección: http://username.github.io.
